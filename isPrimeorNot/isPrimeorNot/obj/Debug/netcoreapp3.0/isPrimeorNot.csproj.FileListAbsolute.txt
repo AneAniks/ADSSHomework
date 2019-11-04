@@ -1,0 +1,11 @@
+C:\Users\Anixx\source\repos\isPrimeorNot\isPrimeorNot\obj\Debug\netcoreapp3.0\isPrimeorNot.csprojAssemblyReference.cache
+C:\Users\Anixx\source\repos\isPrimeorNot\isPrimeorNot\obj\Debug\netcoreapp3.0\isPrimeorNot.AssemblyInfoInputs.cache
+C:\Users\Anixx\source\repos\isPrimeorNot\isPrimeorNot\obj\Debug\netcoreapp3.0\isPrimeorNot.AssemblyInfo.cs
+C:\Users\Anixx\source\repos\isPrimeorNot\isPrimeorNot\bin\Debug\netcoreapp3.0\isPrimeorNot.exe
+C:\Users\Anixx\source\repos\isPrimeorNot\isPrimeorNot\bin\Debug\netcoreapp3.0\isPrimeorNot.deps.json
+C:\Users\Anixx\source\repos\isPrimeorNot\isPrimeorNot\bin\Debug\netcoreapp3.0\isPrimeorNot.runtimeconfig.json
+C:\Users\Anixx\source\repos\isPrimeorNot\isPrimeorNot\bin\Debug\netcoreapp3.0\isPrimeorNot.runtimeconfig.dev.json
+C:\Users\Anixx\source\repos\isPrimeorNot\isPrimeorNot\bin\Debug\netcoreapp3.0\isPrimeorNot.dll
+C:\Users\Anixx\source\repos\isPrimeorNot\isPrimeorNot\bin\Debug\netcoreapp3.0\isPrimeorNot.pdb
+C:\Users\Anixx\source\repos\isPrimeorNot\isPrimeorNot\obj\Debug\netcoreapp3.0\isPrimeorNot.dll
+C:\Users\Anixx\source\repos\isPrimeorNot\isPrimeorNot\obj\Debug\netcoreapp3.0\isPrimeorNot.pdb
