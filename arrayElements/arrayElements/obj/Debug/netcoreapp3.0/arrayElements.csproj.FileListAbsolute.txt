@@ -1,0 +1,11 @@
+C:\Users\Anixx\source\repos\arrayElements\arrayElements\obj\Debug\netcoreapp3.0\arrayElements.csprojAssemblyReference.cache
+C:\Users\Anixx\source\repos\arrayElements\arrayElements\obj\Debug\netcoreapp3.0\arrayElements.AssemblyInfoInputs.cache
+C:\Users\Anixx\source\repos\arrayElements\arrayElements\obj\Debug\netcoreapp3.0\arrayElements.AssemblyInfo.cs
+C:\Users\Anixx\source\repos\arrayElements\arrayElements\bin\Debug\netcoreapp3.0\arrayElements.exe
+C:\Users\Anixx\source\repos\arrayElements\arrayElements\bin\Debug\netcoreapp3.0\arrayElements.deps.json
+C:\Users\Anixx\source\repos\arrayElements\arrayElements\bin\Debug\netcoreapp3.0\arrayElements.runtimeconfig.json
+C:\Users\Anixx\source\repos\arrayElements\arrayElements\bin\Debug\netcoreapp3.0\arrayElements.runtimeconfig.dev.json
+C:\Users\Anixx\source\repos\arrayElements\arrayElements\bin\Debug\netcoreapp3.0\arrayElements.dll
+C:\Users\Anixx\source\repos\arrayElements\arrayElements\bin\Debug\netcoreapp3.0\arrayElements.pdb
+C:\Users\Anixx\source\repos\arrayElements\arrayElements\obj\Debug\netcoreapp3.0\arrayElements.dll
+C:\Users\Anixx\source\repos\arrayElements\arrayElements\obj\Debug\netcoreapp3.0\arrayElements.pdb
