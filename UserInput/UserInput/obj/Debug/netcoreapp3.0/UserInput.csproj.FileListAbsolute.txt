@@ -1,0 +1,11 @@
+C:\Users\Anixx\source\repos\UserInput\UserInput\bin\Debug\netcoreapp3.0\UserInput.exe
+C:\Users\Anixx\source\repos\UserInput\UserInput\bin\Debug\netcoreapp3.0\UserInput.deps.json
+C:\Users\Anixx\source\repos\UserInput\UserInput\bin\Debug\netcoreapp3.0\UserInput.runtimeconfig.json
+C:\Users\Anixx\source\repos\UserInput\UserInput\bin\Debug\netcoreapp3.0\UserInput.runtimeconfig.dev.json
+C:\Users\Anixx\source\repos\UserInput\UserInput\bin\Debug\netcoreapp3.0\UserInput.dll
+C:\Users\Anixx\source\repos\UserInput\UserInput\bin\Debug\netcoreapp3.0\UserInput.pdb
+C:\Users\Anixx\source\repos\UserInput\UserInput\obj\Debug\netcoreapp3.0\UserInput.csprojAssemblyReference.cache
+C:\Users\Anixx\source\repos\UserInput\UserInput\obj\Debug\netcoreapp3.0\UserInput.AssemblyInfoInputs.cache
+C:\Users\Anixx\source\repos\UserInput\UserInput\obj\Debug\netcoreapp3.0\UserInput.AssemblyInfo.cs
+C:\Users\Anixx\source\repos\UserInput\UserInput\obj\Debug\netcoreapp3.0\UserInput.dll
+C:\Users\Anixx\source\repos\UserInput\UserInput\obj\Debug\netcoreapp3.0\UserInput.pdb
