@@ -1,0 +1,11 @@
+C:\Users\Anixx\source\repos\GiftCode\GiftCode\bin\Debug\netcoreapp3.0\GiftCode.exe
+C:\Users\Anixx\source\repos\GiftCode\GiftCode\bin\Debug\netcoreapp3.0\GiftCode.deps.json
+C:\Users\Anixx\source\repos\GiftCode\GiftCode\bin\Debug\netcoreapp3.0\GiftCode.runtimeconfig.json
+C:\Users\Anixx\source\repos\GiftCode\GiftCode\bin\Debug\netcoreapp3.0\GiftCode.runtimeconfig.dev.json
+C:\Users\Anixx\source\repos\GiftCode\GiftCode\bin\Debug\netcoreapp3.0\GiftCode.dll
+C:\Users\Anixx\source\repos\GiftCode\GiftCode\bin\Debug\netcoreapp3.0\GiftCode.pdb
+C:\Users\Anixx\source\repos\GiftCode\GiftCode\obj\Debug\netcoreapp3.0\GiftCode.csprojAssemblyReference.cache
+C:\Users\Anixx\source\repos\GiftCode\GiftCode\obj\Debug\netcoreapp3.0\GiftCode.AssemblyInfoInputs.cache
+C:\Users\Anixx\source\repos\GiftCode\GiftCode\obj\Debug\netcoreapp3.0\GiftCode.AssemblyInfo.cs
+C:\Users\Anixx\source\repos\GiftCode\GiftCode\obj\Debug\netcoreapp3.0\GiftCode.dll
+C:\Users\Anixx\source\repos\GiftCode\GiftCode\obj\Debug\netcoreapp3.0\GiftCode.pdb
