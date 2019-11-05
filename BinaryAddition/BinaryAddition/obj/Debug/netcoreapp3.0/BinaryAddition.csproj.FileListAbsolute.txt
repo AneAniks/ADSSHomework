@@ -1,0 +1,11 @@
+C:\Users\Anixx\source\repos\BinaryAddition\BinaryAddition\bin\Debug\netcoreapp3.0\BinaryAddition.exe
+C:\Users\Anixx\source\repos\BinaryAddition\BinaryAddition\bin\Debug\netcoreapp3.0\BinaryAddition.deps.json
+C:\Users\Anixx\source\repos\BinaryAddition\BinaryAddition\bin\Debug\netcoreapp3.0\BinaryAddition.runtimeconfig.json
+C:\Users\Anixx\source\repos\BinaryAddition\BinaryAddition\bin\Debug\netcoreapp3.0\BinaryAddition.runtimeconfig.dev.json
+C:\Users\Anixx\source\repos\BinaryAddition\BinaryAddition\bin\Debug\netcoreapp3.0\BinaryAddition.dll
+C:\Users\Anixx\source\repos\BinaryAddition\BinaryAddition\bin\Debug\netcoreapp3.0\BinaryAddition.pdb
+C:\Users\Anixx\source\repos\BinaryAddition\BinaryAddition\obj\Debug\netcoreapp3.0\BinaryAddition.csprojAssemblyReference.cache
+C:\Users\Anixx\source\repos\BinaryAddition\BinaryAddition\obj\Debug\netcoreapp3.0\BinaryAddition.AssemblyInfoInputs.cache
+C:\Users\Anixx\source\repos\BinaryAddition\BinaryAddition\obj\Debug\netcoreapp3.0\BinaryAddition.AssemblyInfo.cs
+C:\Users\Anixx\source\repos\BinaryAddition\BinaryAddition\obj\Debug\netcoreapp3.0\BinaryAddition.dll
+C:\Users\Anixx\source\repos\BinaryAddition\BinaryAddition\obj\Debug\netcoreapp3.0\BinaryAddition.pdb
