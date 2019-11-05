@@ -1,0 +1,11 @@
+C:\Users\Anixx\source\repos\DescendingOrder\DescendingOrder\bin\Debug\netcoreapp3.0\DescendingOrder.exe
+C:\Users\Anixx\source\repos\DescendingOrder\DescendingOrder\bin\Debug\netcoreapp3.0\DescendingOrder.deps.json
+C:\Users\Anixx\source\repos\DescendingOrder\DescendingOrder\bin\Debug\netcoreapp3.0\DescendingOrder.runtimeconfig.json
+C:\Users\Anixx\source\repos\DescendingOrder\DescendingOrder\bin\Debug\netcoreapp3.0\DescendingOrder.runtimeconfig.dev.json
+C:\Users\Anixx\source\repos\DescendingOrder\DescendingOrder\bin\Debug\netcoreapp3.0\DescendingOrder.dll
+C:\Users\Anixx\source\repos\DescendingOrder\DescendingOrder\bin\Debug\netcoreapp3.0\DescendingOrder.pdb
+C:\Users\Anixx\source\repos\DescendingOrder\DescendingOrder\obj\Debug\netcoreapp3.0\DescendingOrder.csprojAssemblyReference.cache
+C:\Users\Anixx\source\repos\DescendingOrder\DescendingOrder\obj\Debug\netcoreapp3.0\DescendingOrder.AssemblyInfoInputs.cache
+C:\Users\Anixx\source\repos\DescendingOrder\DescendingOrder\obj\Debug\netcoreapp3.0\DescendingOrder.AssemblyInfo.cs
+C:\Users\Anixx\source\repos\DescendingOrder\DescendingOrder\obj\Debug\netcoreapp3.0\DescendingOrder.dll
+C:\Users\Anixx\source\repos\DescendingOrder\DescendingOrder\obj\Debug\netcoreapp3.0\DescendingOrder.pdb
