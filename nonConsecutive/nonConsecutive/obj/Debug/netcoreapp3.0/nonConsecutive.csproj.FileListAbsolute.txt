@@ -1,0 +1,11 @@
+C:\Users\Anixx\source\repos\nonConsecutive\nonConsecutive\bin\Debug\netcoreapp3.0\nonConsecutive.exe
+C:\Users\Anixx\source\repos\nonConsecutive\nonConsecutive\bin\Debug\netcoreapp3.0\nonConsecutive.deps.json
+C:\Users\Anixx\source\repos\nonConsecutive\nonConsecutive\bin\Debug\netcoreapp3.0\nonConsecutive.runtimeconfig.json
+C:\Users\Anixx\source\repos\nonConsecutive\nonConsecutive\bin\Debug\netcoreapp3.0\nonConsecutive.runtimeconfig.dev.json
+C:\Users\Anixx\source\repos\nonConsecutive\nonConsecutive\bin\Debug\netcoreapp3.0\nonConsecutive.dll
+C:\Users\Anixx\source\repos\nonConsecutive\nonConsecutive\bin\Debug\netcoreapp3.0\nonConsecutive.pdb
+C:\Users\Anixx\source\repos\nonConsecutive\nonConsecutive\obj\Debug\netcoreapp3.0\nonConsecutive.csprojAssemblyReference.cache
+C:\Users\Anixx\source\repos\nonConsecutive\nonConsecutive\obj\Debug\netcoreapp3.0\nonConsecutive.AssemblyInfoInputs.cache
+C:\Users\Anixx\source\repos\nonConsecutive\nonConsecutive\obj\Debug\netcoreapp3.0\nonConsecutive.AssemblyInfo.cs
+C:\Users\Anixx\source\repos\nonConsecutive\nonConsecutive\obj\Debug\netcoreapp3.0\nonConsecutive.dll
+C:\Users\Anixx\source\repos\nonConsecutive\nonConsecutive\obj\Debug\netcoreapp3.0\nonConsecutive.pdb
