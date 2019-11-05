@@ -1,0 +1,11 @@
+C:\Users\Anixx\source\repos\CountSheeps\CountSheeps\bin\Debug\netcoreapp3.0\CountSheeps.exe
+C:\Users\Anixx\source\repos\CountSheeps\CountSheeps\bin\Debug\netcoreapp3.0\CountSheeps.deps.json
+C:\Users\Anixx\source\repos\CountSheeps\CountSheeps\bin\Debug\netcoreapp3.0\CountSheeps.runtimeconfig.json
+C:\Users\Anixx\source\repos\CountSheeps\CountSheeps\bin\Debug\netcoreapp3.0\CountSheeps.runtimeconfig.dev.json
+C:\Users\Anixx\source\repos\CountSheeps\CountSheeps\bin\Debug\netcoreapp3.0\CountSheeps.dll
+C:\Users\Anixx\source\repos\CountSheeps\CountSheeps\bin\Debug\netcoreapp3.0\CountSheeps.pdb
+C:\Users\Anixx\source\repos\CountSheeps\CountSheeps\obj\Debug\netcoreapp3.0\CountSheeps.csprojAssemblyReference.cache
+C:\Users\Anixx\source\repos\CountSheeps\CountSheeps\obj\Debug\netcoreapp3.0\CountSheeps.AssemblyInfoInputs.cache
+C:\Users\Anixx\source\repos\CountSheeps\CountSheeps\obj\Debug\netcoreapp3.0\CountSheeps.AssemblyInfo.cs
+C:\Users\Anixx\source\repos\CountSheeps\CountSheeps\obj\Debug\netcoreapp3.0\CountSheeps.dll
+C:\Users\Anixx\source\repos\CountSheeps\CountSheeps\obj\Debug\netcoreapp3.0\CountSheeps.pdb
